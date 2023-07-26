@@ -1,0 +1,26 @@
+.api-list-table {
+    margin-top: 16px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  thead th {
+    padding: 12px;
+    background-color: #8dbf4e;
+    color: #fff;
+    text-align: left;
+  }
+  
+  tbody tr {
+    border-bottom: 1px solid #8dbf4e;
+  }
+  
+  td {
+    padding: 12px;
+    text-align: left;
+  }
+  

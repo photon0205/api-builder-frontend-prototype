@@ -1,0 +1,32 @@
+.api-list-page {
+    padding: 20px;
+  }
+  
+  h2 {
+    font-size: 1.8rem;
+    color: #8dbf4e;
+    margin-bottom: 20px;
+  }
+  
+  .api-list-table {
+    margin-top: 20px;
+  }
+  
+  thead th {
+    background-color: #8dbf4e;
+    color: #fff;
+  }
+  
+  tbody tr {
+    border-bottom: 1px solid #8dbf4e;
+  }
+  
+  td {
+    text-align: left;
+  }
+  
+  .modal-content {
+    max-width: 400px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  }  

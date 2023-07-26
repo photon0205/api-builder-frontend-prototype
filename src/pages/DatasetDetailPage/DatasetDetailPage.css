@@ -1,0 +1,52 @@
+.dataset-detail-page {
+    padding: 20px;
+  }
+  
+  h2 {
+    font-size: 1.8rem;
+    color: #8dbf4e;
+    margin-bottom: 20px;
+  }
+  
+  .file-accordion {
+    margin-top: 20px;
+  }
+  
+  .file-header {
+    background-color: #f2f5e9;
+  }
+  
+  .file-details {
+    background-color: #fff;
+  }
+  
+  .column-row {
+    border-bottom: 1px solid #8dbf4e;
+  }
+  
+  .column-heading {
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .column {
+    border: 1px solid #8dbf4e;
+    background-color: #f2f5e9;
+  }
+  
+  .column.selected {
+    background-color: #8dbf4e;
+    color: #fff;
+  }
+  
+  .modal-content {
+    max-width: 400px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  }
+  
+  .close-button {
+    color: #8dbf4e;
+  }
+
+  
